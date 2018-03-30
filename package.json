@@ -1,0 +1,25 @@
+{
+  "name": "nodefilemetadata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rdelosh/NodeFileMetadata.git"
+  },
+  "author": "Victor De Los Santos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rdelosh/NodeFileMetadata/issues"
+  },
+  "homepage": "https://github.com/rdelosh/NodeFileMetadata#readme",
+  "dependencies": {
+    "ejs": "^2.5.8",
+    "express": "^4.16.3",
+    "multer": "^1.3.0"
+  }
+}
